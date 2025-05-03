@@ -18,4 +18,4 @@
 
 <h2>Tools and Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,tailwind,react,nextjs,prisma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,tailwind,react,nextjs,prisma,postman,github)](https://skillicons.dev)
