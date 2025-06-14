@@ -9,7 +9,7 @@
 
 ⏳ Working on freelance projects since 2021.
 
-💻 **Currently working with**: React.js, Next.js
+💻 **Currently working with**: Next.js
 
 <h2>Get in touch</h2>
 <a href="https://www.linkedin.com/in/shakib-rahman-0b0330297/" target="_blank">
